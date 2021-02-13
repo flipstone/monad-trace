@@ -28,7 +28,7 @@ library
                       UndecidableInstances
   -- other-modules:
   -- other-extensions:
-  build-depends:       base >=4.8 && <4.9,
+  build-depends:       base >=4.8 && <4.13,
                        bytestring,
                        data-default >= 0.5,
                        exceptions >= 0.8,
