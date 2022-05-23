@@ -19,6 +19,7 @@ module Control.Monad.Trace
   ) where
 
 import            Control.Applicative
+import            Control.Monad (MonadPlus)
 import            Control.Monad.Base
 import            Control.Monad.Catch
 import            Control.Monad.Except
