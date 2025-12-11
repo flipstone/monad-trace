@@ -4,11 +4,11 @@
 name:                monad-trace
 version:             0.1.0.0
 synopsis:            A Monad for capturing trace logs
-license:             AllRightsReserved
+license:             MIT
 license-file:        LICENSE
 author:              Flipstone Technology Partners
-maintainer:          development@flipstone.com
--- copyright:
+maintainer:          maintainers@flipstone.com
+copyright:           2025 Flipstone Technology Partners
 category:            System
 build-type:          Simple
 -- extra-source-files:
